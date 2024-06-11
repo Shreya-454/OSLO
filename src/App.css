@@ -2,3 +2,7 @@
   font-family: "Avenir";
   src: url(./assets/fonts/avenir_roman_12.otf);
 }
+@font-face {
+  font-family: "Avenir LT Std";
+  src: url(./assets/fonts/FontsFree-Net-AvenirLTStd-Book.ttf);
+}
