@@ -18,10 +18,10 @@ const WhatHappens = () => {
                     <p className=' font-avenir text-lightBlack sm:text-xl text-base lg:text-2xl leading-lg font-normal text-center sm:text-start 2xl:max-w-[597px]'>Untreated tartar will provide a breeding ground for even more bacteria and increase the risk of infections in the gums. Regular professional teeth cleaning thus helps to prevent gum inflammation, which over time can develop into the serious and irreversible condition of periodontitis. The bacteria also convert carbohydrates into acids, and this is the biggest cause of cavities in the teeth (caries).</p>
                 </div>
             </div>
-            <img src={whatEllipse} alt="ellipse" className='absolute top-[-23%] left-[-24%] z-[-1] 2xl:mb-[128px]' />
+            <img src={whatEllipse} alt="ellipse" className='absolute top-[-23%] left-[-24%] z-[-1] ' />
             </div>
             <div className="xl:w-5/12 w-full px-3">
-            <img src={whatHappenImg} alt="whatImg" className='max-w-[795.57px] max-h-[726.8px] min-[1600px]:w-auto w-full xl:object-contain mx-auto 2xl:mx-0'  />
+            <img src={whatHappenImg} alt="whatImg" className='max-w-[795.57px] 2xl:mb-[128px] max-h-[726.8px] min-[1600px]:w-auto w-full xl:object-contain mx-auto 2xl:mx-0'  />
             </div>
         </div>
          </div>
