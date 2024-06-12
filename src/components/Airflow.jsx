@@ -15,9 +15,9 @@ const Airflow = () => {
     };
   return (
     <div className='bg-lightBlue md:pt-[56px] md:max-h-[540px] py-10 md:pb-0'>
-      <div className="max-w-[1568px] mx-auto sm:px-6 px-3 container">
+      <div className=" mx-auto sm:px-6 px-3 container 2xl:max-w-[1568px] max-w-[1320px]">
         <h3 className='font-avenir  font-extrabold text-2xl sm:text-3xl md:text-4xl lg:text-4xxl leading-lg text-center text-black mb-3 md:mb-[30px]'>See for yourself how efficient Airflow is!</h3>
-        <p className='font-avenirstd text-center sm:text-start text-base sm:text-xl lg:text-2xl font-normal leading-lg text-grey max-w-[1250px] mx-auto mb-5 md:mb-[53px]'>Airflow teeth cleaning is done after the tartar has been removed. Airflow is a perfect treatment for those who want a whiter, cleaner and healthier smile in a gentle and effective way. A water and powder solution is blown onto the teeth with high precision without causing any damage to the tooth enamel. With absolutely no discomfort for you!</p>
+        <p className='font-avenirstd text-center  text-base sm:text-xl lg:text-2xl font-normal leading-lg text-grey max-w-[1250px] mx-auto mb-5 md:mb-[53px]'>Airflow teeth cleaning is done after the tartar has been removed. Airflow is a perfect treatment for those who want a whiter, cleaner and healthier smile in a gentle and effective way. A water and powder solution is blown onto the teeth with high precision without causing any damage to the tooth enamel. With absolutely no discomfort for you!</p>
         <div className="relative  ">
                     {isPlaying ? (
                         <video
