@@ -5,7 +5,7 @@ import rightWeb from '../assets/svg/rightWeb.svg'
 import leftWeb from '../assets/svg/leftWeb.svg'
 const Tannlegesenter = () => {
   return (
-    <div className=' 2xl:max-h-[600px] mb-[158px] overflow-hidden'>
+    <div className=' 2xl:max-h-[600px] 2xl:mb-[158px] overflow-hidden'>
       <div className=' bg-blue 2xl:h-[595px] overflow-hidden mb-[158px]  relative z-[1] '>
         <div className="container max-w-[1568px]  sm:px-6 px-3 mx-auto">
       <div className="w-full min-h-[624px]  bg-pink border-8 2xl:-translate-y-4 md:border-[16px] border-solid 2xl:max-w-[1520px] xl:max-w-[1100px] mx-auto lg:max-w-[900px]  border-white rounded-[96px] py-[100px] md:py-[164px] md:px-6 px-3 relative">
