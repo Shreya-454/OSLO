@@ -3,8 +3,6 @@ import { Tooth } from './common/Icons'
 import whatHappenImg from '../assets/images/whatHappensImg.webp'
 import whatEllipse from '../assets/images/whatHappenEllipse.webp'
 
-
-
 const WhatHappens = () => {
   return (
     <div className=' overflow-x-clip xl:pt-[221px] md:pt-0 sm:pt-20 pt-10 lg:mt-[307px] md:mt-[180px] sm:pb-20 pb-12 lg:pb-[135px]' >
