@@ -9,7 +9,7 @@ const WhatHappens = () => {
       <div className="container max-w-[1568px] mx-auto sm:px-6 px-3">
         <div className="flex flex-row flex-wrap -mx-3">
             <div className="xl:w-7/12 w-full px-3 mb-8 xl:mb-0 relative z-[1]">
-            <h3 className='font-avenir font-extrabold text-black md:text-4xl sm:text-3xl text-2xl lg:text-4xxl !leading-md1 mb-[6px] text-center sm:text-start'>What happens if discolouration, plaque and tartar are not removed regularly?</h3>
+            <h3 className='font-avenir font-extrabold text-black md:text-4xl sm:text-3xl text-2xl lg:text-4xxl !leading-md1 mb-[6px] text-center sm:text-start 2xl:max-w-[774px]'>What happens if discolouration, plaque and tartar are not removed regularly?</h3>
                 <p className='font-avenir font-normal sm:text-xl text-base lg:text-2xl leading-lg text-lightBlack md:mb-[51px] mb-5 2xl:max-w-[774px] text-center sm:text-start'>Even with good dental care at home, bacteria and tartar will always build up. It occurs especially under and along the gum line and between teeth that are crowded together. Discolouration from food, drink, tobacco, etc., creates additional rough surfaces on which bacteria can attach.</p>
             <div className="sm:flex gap-9">
                 <div className=' flex justify-center sm:block'><Tooth/></div>
